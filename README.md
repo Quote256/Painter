@@ -1,3 +1,3 @@
 # Painter
 A painting application
-Here it is
+Here it is. Pretty okay.
